@@ -47,7 +47,7 @@ ai-finance-advisor
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOURUSERNAME/ai-finance-advisor.git
+git clone https://github.com/ShivaNandan540/ai-finance-advisor.git
 
 ### 2. Install frontend dependencies
 
